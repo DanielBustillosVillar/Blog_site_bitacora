@@ -2,3 +2,5 @@ Hi my name is Daniel Bustillos,
 i am student of software developer
 hellow world
 i am from Pasco
+this is a note
+i like tallarines
